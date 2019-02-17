@@ -20,7 +20,7 @@ Baixar o instalador direto do site da Microsoft ( https://www.microsoft.com/en-u
 
 ### 3. Baixar e descompactar o DeDRM_tools
 
-Acessar a página de releases do projeto (DeDRM_tools)[https://github.com/apprenticeharper/DeDRM_tools]: https://github.com/apprenticeharper/DeDRM_tools/releases
+Acessar a página de releases do projeto [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools): https://github.com/apprenticeharper/DeDRM_tools/releases
 
 Baixar o zip da última versão (recomendo uso da versão DeDRM_tools_6.6.1.zip) e descompactar em local de preferência.
 
@@ -31,5 +31,5 @@ Baixar [este arquivo](https://raw.githubusercontent.com/matheusmota/dicas-kindle
 
 ### 5. Executar o DeDRM 
 
-Com o botão direito do mouse clique sobre o arquivo **abrir-dedrm.bat** salvo dentro da pasta descompactada. Em seguida escolha "executar como administrador" e faça a remoção do DRM.
+Dentro da pasta do DeDRM (exemplo: DeDRM_tools_6.6.1), com o botão direito do mouse, clique sobre o arquivo **abrir-dedrm.bat** e escolha **executar como administrador**. A interface de remoção deve aparecer. Assista ao vídeo para ver detalhes sobre como proceder com a remoção do DRM usando a interface.
 
