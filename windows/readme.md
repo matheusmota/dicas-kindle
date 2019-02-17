@@ -10,7 +10,11 @@ Veja todos os detalhes assistindo ao vídeo:
 
 Acessar https://www.python.org/downloads/release/python-2715/ , 
 baixar instalador para Windows [**Windows x86-64 MSI installer**](https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi)
-e instalar o Python. Não esquecer de marcar opção que também instala o **pip**.
+e instalar o Python. Não esquecer de marcar opção que também instala o **pip** e o **tk**, como no exemplo abaixo:
+
+![](https://raw.githubusercontent.com/matheusmota/dicas-kindle/master/images/python-install.png)
+
+
 
 ### 2. Instalar Microsoft Visual C++ Compiler for Python 2.7 
 
