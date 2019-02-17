@@ -30,7 +30,7 @@ Baixar o zip da última versão (recomendo uso da versão DeDRM_tools_6.6.1.zip)
 
 ### 4. Baixar e executar script de verificação e execução do DeDRM 
 
-Baixar [este arquivo](https://raw.githubusercontent.com/matheusmota/dicas-kindle/master/resources/abrir-dedrm.bat) que facilita a execução do DeDRM e salvar **na mesma pasta descompactada** do DeDRM. 
+Baixar [este arquivo](https://raw.githubusercontent.com/matheusmota/dicas-kindle/master/arquivos/abrir-dedrm.bat) que facilita a execução do DeDRM e salvar **na mesma pasta descompactada** do DeDRM. 
 (exemplo: se você descompactou o arquivo DeDRM_tools_6.6.1.zip na pasta DeDRM_tools_6.6.1, salve o arquivo dentro desta pasta )
 
 ### 5. Executar o DeDRM 
