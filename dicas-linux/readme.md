@@ -15,7 +15,7 @@ sudo apt-get install -y python-pip python-tk
 ### 2. Instalar bibliotecas necessárias ao DeDRM
 
 ```bash
-sudo pip2 install -U pip
+sudo pip2 install -U pip setuptools
 sudo pip2 install pycrypto==2.6.1 pylzma
 ```
 
