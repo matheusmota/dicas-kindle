@@ -3,8 +3,9 @@
 Veja todos os detalhes assistindo ao vídeo: https://www.youtube.com/watch?v=KLTypN4h8hU&t=9s&list=PLvsEcgwfG2GFjN0SEqfu6L7HFDOmXSgpU&index=6
 
 
-## Como remover o DRM dos ebooks baixados da Amazon
+## Como remover o DRM dos ebooks baixados da Amazon usando Linux (Ubuntu)
 
+Siga as instruções abaixo usando o terminal.
 
 ### 1. Instalar o Python 2, pip e tk :
 ```bash
