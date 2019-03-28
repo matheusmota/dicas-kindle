@@ -9,7 +9,8 @@ Siga as instruções abaixo usando o terminal.
 
 ### 1. Instalar o Python 2, pip e tk :
 ```bash
-sudo apt-get install -y python-pip python-tk 
+sudo apt-get install -y python-pip python-tk build-essential libssl-dev libffi-dev python-dev
+
 ```
 
 ### 2. Instalar bibliotecas necessárias ao DeDRM
