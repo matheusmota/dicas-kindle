@@ -41,5 +41,5 @@ python2 DeDRM_Windows_Application/DeDRM_App/DeDRM_lib/DeDRM_App.pyw
 
 ### Importante
 
-Usar apesar Python2 (melhor se for a versão 2.7) e o pip para Python2
+Usar Python2 (versão 2.7) e o pip para Python2.
 
